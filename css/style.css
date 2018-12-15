@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+.backgroundimg{
+    background: url(/css/cover.jpg);
+    background-size:cover;
+}
+
+.jumbotron{
+    text-align: center;
+    margin-top:10px;
+    margin-right:30%;
+    margin-left:30%;
+}
